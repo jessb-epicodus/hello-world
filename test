@@ -1,5 +1,0 @@
-#!/bin/sh
-
-# Find the file 'test' in /usr folder
-find . -name test
-
